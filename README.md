@@ -7,4 +7,4 @@ No warnings;
 No Errors;
 program with tow for;
 
-<img src="Rhomboid/RhomboidPicture/s17.PNG">
+<img src="RhomboidPicture/s17.PNG">
