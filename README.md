@@ -8,3 +8,4 @@ No Errors;
 program with tow for;
 
 <img src="RhomboidPicture/s17.PNG">
+<img src="RhomboidPicture/rhomboid_python.PNG">
