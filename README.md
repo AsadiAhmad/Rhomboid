@@ -1,11 +1,6 @@
 # Rhomboid
 Rhomboid maker from Black Assassin Coder;
-Program whit Java;
-38 Lines of codes;
-Have 1 class;
-No warnings;
-No Errors;
-program with tow for;
+Program whit Java, C, Python;
 
 <img src="RhomboidPicture/s17.PNG">
 <img src="RhomboidPicture/rhomboid_python.PNG">
